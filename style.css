@@ -1,0 +1,12 @@
+/* styles.css */
+
+.custom-font-size {
+    font-size: 17px; /* Adjust the font size value as needed */
+    text-align: justify; /* Add text justification */
+}
+
+.custom-font-bold {
+    font-size: 18px; /* Adjust the font size value as needed */
+    text-align: justify; /* Add text justification */
+    font-weight: bold; /* Add font boldness */
+}
